@@ -1,0 +1,2 @@
+class ImportGameModuleError(Exception):
+    pass
